@@ -1,0 +1,12 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Java / Gradle
+**/build/
+.gradle/
+
+# Vue / Node
+frontend/node_modules/
+frontend/dist/
+
